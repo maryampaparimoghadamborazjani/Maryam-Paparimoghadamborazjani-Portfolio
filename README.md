@@ -3,7 +3,6 @@
 ### Data Science & Machine Learning Researcher | University of Texas
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Maryam%20Paparimoghadamborazjani-4285F4?style=for-the-badge&logo=google-scholar)](https://scholar.google.com/citations?user=UBdll9oAAAAJ)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-actual-profile-url)
 
 ## 🔬 About Me
 I am a **Data Science Researcher** associated with the **University of Texas**. My work focuses on the intersection of Deep Learning, Convolutional Neural Networks (CNNs), and Industrial Electronics. I specialize in applying advanced ML algorithms to detect faults in renewable energy systems and optimize power generation.
@@ -32,4 +31,4 @@ My full publication list is available on [Google Scholar](https://scholar.google
 * **Domain:** Renewable Energy, Industrial Automation, Fluid Dynamics
 
 ---
-*Connect with me on [ResearchGate](https://www.researchgate.net/) or view my verified academic profile on [Google Scholar](https://scholar.google.com/citations?user=UBdll9oAAAAJ).*
+*View my verified academic profile on [Google Scholar](https://scholar.google.com/citations?user=UBdll9oAAAAJ).*
